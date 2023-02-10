@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "Kursbeschreibung & Ziele"
       href: about.html
+    - text: "Folien"
+      menu: 
+        - text: "Woche 1"
+          href: PPT/Session_1.pdf
 output: distill::distill_article
