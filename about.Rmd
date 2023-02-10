@@ -1,10 +1,29 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Kursbeschreibung und Ziele"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Kursbeschreibung
+
+Dieser Kurs richtet sich an die Bedürfnisse von Student:innen, die Interesse daran haben, herauszufinden, wie sich individuelle Unterschiede auf das Erlernen einer Zweitsprache auswirken und wie das Sprachenlernen und -unterrichten effektiver gestaltet werden kann.
+
+Besonders in der Erwachsenenbildung ist man als Lehrkraft (oft unvorbereitet) mit großer Lerner-Heterogenität konfrontiert, und zwar mit einer Heterogenität, die über lediglich den Bildungsgrad der Lernenden hinausgeht: Erwachsene bringen mit sich bedeutende Unterschiede in Motivation, bisherigem Bi- und Multilingualismus, Sprachlerneignung, Erwartungen, Fähigkeiten, Persönlichkeitsmerkmalen, Einstellungen, kognitiven Kapazitäten (etwa Arbeitsgedächtnis) und noch vielem mehr. In diesem Kurs setzen wir uns damit auseinander, wie solche individuellen Unterschiede den Zweitspracherwerb bei erwachsenen Lernenden unterschiedlich beeinflussen und möglicherweise zu unterschiedlichen Lernerfolgsraten führen (können).
+Wir beginnen mit Fragen der sogenannten „inter-individuellen Variation“, also wie individuelle Unterschiede etwa in Motivation, Sprachlerneignung, Einstellungen etc. den Zweitspracherwerb und Erfolg dessen beeinflussen. Im zweiten Teil des Kurses beschäftigen wir uns mit Fragen der „intra-individuellen Variation“, das heißt, wie entwickeln sich einzelne Lernende im Laufe der Zeit als Ergebnis sich ändernder Variablen in einem sich ändernden Kontext, und wie tragen alltägliche oder sogar untertägige Schwankungen in solchen individuellen Unterschieden zur Sprachentwicklung bei? So sollen wir zum einen besser verstehen, wie sich globale Unterschiede etwa in Einstellungen oder Motivation auf den Lernerfolg im Generellen auswirken, und zum anderen wie alltägliche und/oder untertägige Schwankungen eines einzelnen Menschen zur individuellen Sprachentwicklung beitragen.
+
+# Ziele 
+
+Teilnehmer:innen...
+
+- verstehen den Unterschied zwischen lernerinternen und lernerexternen Faktoren;
+- vertiefen Ihr Wissen über individuelle Unterschiede im Zweitspracherwerb, wie diese untersucht werden und wie sie etwa im
+Unterricht beobachtet werden können;
+- können Screeninginstrumente entwickeln, womit man sich als Lehrkraft einen Überblick über die Verteilung der Sprachniveaus im
+Kurs verschaffen kann;
+- kennen geeignete Instrumente zur Erhebung von individuellen Unterschieden;
+- sind dazu in der Lage, die Rolle von individuellen Unterschieden im Zweitspracherwerb kritisch zu reflektieren;
+- kennen geeignete Methoden zur Berücksichtigung von individuellen Unterschieden im erwachsenen Zweitsprachunterricht;
+- können die Ergebnisse der empirischen Untersuchungen auswerten, diese interpretieren und sie im Rahmen einer kurzen
+wissenschaftlichen Arbeit verständlich vermitteln.
